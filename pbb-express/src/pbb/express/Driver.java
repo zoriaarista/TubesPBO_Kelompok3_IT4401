@@ -19,6 +19,7 @@ public class Driver {
     
     public static Akun getLoggedAccount() {
         return loggedAccount;
+        
     }
     
 }
