@@ -374,7 +374,7 @@ public class PengirimFrame extends javax.swing.JFrame {
     private void btnPengirimLihatWilayahActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnPengirimLihatWilayahActionPerformed
         // TODO add your handling code here:
         ((Pengirim) Driver.getLoggedAccount()).temukanLokasiPengiriman();
-        JOptionPane.showMessageDialog(this, "lokasi Ditemukan");
+        JOptionPane.showMessageDialog(this, "Lokasi Ditemukan");
     }//GEN-LAST:event_btnPengirimLihatWilayahActionPerformed
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
